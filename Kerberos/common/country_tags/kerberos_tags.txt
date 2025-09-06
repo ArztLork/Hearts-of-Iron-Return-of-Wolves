@@ -1,0 +1,4 @@
+USA = "countries/USA_kerberos.txt"
+GER = "countries/GER_kerberos.txt"
+JAP = "countries/JAP_kerberos.txt"
+CHI = "countries/CHI_kerberos.txt"

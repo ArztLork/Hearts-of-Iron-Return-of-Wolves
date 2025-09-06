@@ -1,0 +1,17 @@
+focus_tree = {
+    id = JAP_kerberos
+    country = { factor = 0 }
+    default = yes
+
+    focus = {
+        id = JAP_rebuild_after_nukes
+        icon = GFX_goal_generic_construct_civ_factory
+        x = 10
+        y = 0
+        cost = 10
+        completion_reward = {
+            add_political_power = 25
+            add_stability = -0.05
+        }
+    }
+}

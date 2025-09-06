@@ -1,0 +1,17 @@
+focus_tree = {
+    id = CHI_kerberos
+    country = { factor = 0 }
+    default = yes
+
+    focus = {
+        id = CHI_resist_german_influence
+        icon = GFX_goal_generic_defence
+        x = 10
+        y = 0
+        cost = 10
+        completion_reward = {
+            add_political_power = 25
+            add_war_support = 0.05
+        }
+    }
+}

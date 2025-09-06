@@ -1,0 +1,36 @@
+ideas = {
+    USA_democratic_bastion = {
+        picture = idea_political_reform
+        allowed = { original_tag = USA }
+        modifier = {
+            stability_factor = 0.1
+        }
+    }
+
+    GER_power_armor_legacy = {
+        picture = idea_military_academy
+        allowed = { original_tag = GER }
+        modifier = {
+            breakthrough_factor = 0.15
+            justify_war_goal_time = -0.15
+        }
+    }
+
+    JAP_nuclear_ruins = {
+        picture = idea_civilian_economy
+        allowed = { original_tag = JAP }
+        modifier = {
+            stability_factor = -0.2
+            production_factory_max_efficiency_factor = -0.1
+        }
+    }
+
+    CHI_struggling_unity = {
+        picture = idea_political_crisis
+        allowed = { original_tag = CHI }
+        modifier = {
+            political_power_factor = -0.15
+            stability_factor = -0.05
+        }
+    }
+}

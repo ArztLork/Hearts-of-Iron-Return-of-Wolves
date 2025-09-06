@@ -1,0 +1,16 @@
+focus_tree = {
+    id = GER_kerberos
+    country = { factor = 0 }
+    default = yes
+
+    focus = {
+        id = GER_post_hitler
+        icon = GFX_goal_generic_demand_territory
+        x = 10
+        y = 0
+        cost = 10
+        completion_reward = {
+            add_stability = 0.05
+        }
+    }
+}
