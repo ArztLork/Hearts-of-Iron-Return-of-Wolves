@@ -1,6 +1,18 @@
 focus_tree = {
     id = china_focus
-    country = { factor = 0 }
+    country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = CHI
+		}
+		
+		modifier = {
+			add = 10
+			original_tag = CHI
+		}
+	}
     default = yes
 
     focus = {

@@ -1,6 +1,18 @@
 focus_tree = {
     id = german_focus
-    country = { factor = 0 }
+    country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = GER
+		}
+		
+		modifier = {
+			add = 10
+			original_tag = GER
+		}
+	}
     default = yes
 
     focus = {
