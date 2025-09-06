@@ -8,4 +8,4 @@
 
 #Japan:
 
-#China:
+#China: bing
