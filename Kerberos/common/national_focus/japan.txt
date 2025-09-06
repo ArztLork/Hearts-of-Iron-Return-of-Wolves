@@ -1,17 +1,17 @@
 focus_tree = {
-    id = CHI_kerberos
+    id = japan_focus
     country = { factor = 0 }
     default = yes
 
     focus = {
-        id = CHI_resist_german_influence
-        icon = GFX_goal_generic_defence
+        id = JAP_rebuild_after_nukes
+        icon = GFX_goal_generic_construct_civ_factory
         x = 10
         y = 0
         cost = 10
         completion_reward = {
             add_political_power = 25
-            add_war_support = 0.05
+            add_stability = -0.05
         }
     }
 }
