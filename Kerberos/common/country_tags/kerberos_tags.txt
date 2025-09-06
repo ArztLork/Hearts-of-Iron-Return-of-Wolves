@@ -1,4 +1,4 @@
 USA = "countries/USA.txt"
-GER = "countries/GER.txt"
-JAP = "countries/JAP.txt"
-CHI = "countries/CHI.txt"
+GER = "countries/Germany.txt"
+JAP = "countries/Japan.txt"
+CHI = "countries/China.txt"
