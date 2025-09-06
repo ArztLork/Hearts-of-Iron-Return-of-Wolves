@@ -1,5 +1,5 @@
 focus_tree = {
-    id = USA_kerberos
+    id = usa_focus
     country = { factor = 0 }
     default = yes
 
