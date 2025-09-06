@@ -1,4 +1,4 @@
-version="0.02"
+version="0.01"
 tags={
 	"Alternative History"
 	"Gameplay"
