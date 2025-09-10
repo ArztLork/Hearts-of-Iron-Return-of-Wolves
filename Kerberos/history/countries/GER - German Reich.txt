@@ -1,8 +1,7 @@
 capital = 75   # Berlin (vanilla state ID)
 
-national_focus = {
-    id = german_focus
-}
+set_national_focus = german_focus
+
 
 add_ideas = {
     GER_power_armor_legacy

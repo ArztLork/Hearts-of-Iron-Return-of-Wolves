@@ -4,7 +4,15 @@ ideas = {
             picture = idea_political_reform
             allowed = { original_tag = USA }
             modifier = {
-                stability_factor = 0.1
+                stability_factor = 0.2
+            }
+        }
+        
+        USA_war_bond_overhang = {
+            picture = idea_political_reform
+            allowed = { original_tag = USA }
+            modifier = {
+                stability_factor = -0.4
             }
         }
 
