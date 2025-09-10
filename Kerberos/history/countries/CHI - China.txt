@@ -1,6 +1,8 @@
 ﻿capital = 613 # Nanjing
 
-set_national_focus = china_focus
+national_focus = {
+    id = china_focus
+}
 
 oob = "CHI_1936"
 if = {

@@ -1,6 +1,8 @@
 capital = 3561   # Washington DC (vanilla state ID)
 
-set_national_focus = usa_focus
+national_focus = {
+    id = usa_focus
+}
 
 add_ideas = {
     USA_democratic_bastion

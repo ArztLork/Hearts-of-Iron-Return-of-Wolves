@@ -1,20 +1,12 @@
 bookmarks = {
-    kerberos_cold_war = {
+    bookmark = {
+        id = kerberos_cold_war
         name = "The Return of Wolves"
         desc = "1946. Germany has won the war in Europe and unleashed nuclear fire on Japan. Hitler is dead, assassinated in 1944, leaving the Reich fractured but powerful. America, crippled by debt, faces a new cold war. Japan, scarred and divided, struggles to rebuild under the shadow of the Kerberos Panzer Cops. China fights for survival in the chaos between giants."
-
         date = 1946.1.1
-
-        picture = "GFX_select_date_1936"  # you can replace with your own later
-
+        picture = "GFX_select_date_1936"
         default_country = "USA"
         default = yes
-
-        selectable_countries = {
-            USA
-            GER
-            JAP
-            CHI
-        }
+        selectable_countries = { USA GER JAP CHI }
     }
 }

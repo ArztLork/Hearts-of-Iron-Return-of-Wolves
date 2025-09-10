@@ -1,5 +1,5 @@
 ideas = {
-    political_ideas = {
+    country = {
         USA_democratic_bastion = {
             picture = idea_political_reform
             allowed = { original_tag = USA }
@@ -16,9 +16,7 @@ ideas = {
                 stability_factor = -0.05
             }
         }
-    }
 
-    military_ideas = {
         GER_power_armor_legacy = {
             picture = idea_military_academy
             allowed = { original_tag = GER }
@@ -27,9 +25,7 @@ ideas = {
                 justify_war_goal_time = -0.15
             }
         }
-    }
 
-    economic_ideas = {
         JAP_nuclear_ruins = {
             picture = idea_civilian_economy
             allowed = { original_tag = JAP }
