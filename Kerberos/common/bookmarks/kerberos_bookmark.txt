@@ -1,5 +1,6 @@
 bookmarks = {
-    kerberos = {
+    bookmark = {
+        id = kerberos
         name = "The Return of Wolves"
         desc = "1946. Germany has won the war in Europe and unleashed nuclear fire on Japan. Hitler is dead, assassinated in 1944, leaving the Reich fractured but powerful. America, crippled by debt, faces a new cold war. Japan, scarred and divided, struggles to rebuild under the shadow of the Kerberos Panzer Cops. China fights for survival in the chaos between giants."
         date = 1946.1.1
@@ -7,11 +8,32 @@ bookmarks = {
         default_country = "USA"
         default = yes
 
-        selectable_countries = {
-            USA
-            GER
-            JAP
-            CHI
+        USA = {
+            history = "USA_history_entry"
+            ideology = democratic
+            ideas = { USA_democratic_bastion }
+            focuses = { USA_secure_democracy }
+        }
+
+        GER = {
+            history = "GER_history_entry"
+            ideology = fascism
+            ideas = { GER_power_armor_legacy }
+            focuses = { GER_post_hitler }
+        }
+
+        JAP = {
+            history = "JAP_history_entry"
+            ideology = neutrality
+            ideas = { JAP_nuclear_ruins }
+            focuses = { JAP_rebuild_after_nukes }
+        }
+
+        CHI = {
+            history = "CHI_history_entry"
+            ideology = communism
+            ideas = { CHI_struggling_unity }
+            focuses = { CHI_resist_german_influence }
         }
     }
 }
