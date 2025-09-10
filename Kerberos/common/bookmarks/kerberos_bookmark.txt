@@ -7,6 +7,19 @@ bookmarks = {
         picture = "GFX_select_date_1936"
         default_country = "USA"
         default = yes
-        selectable_countries = { USA GER JAP CHI }
+         selectable_countries = {
+        USA = {
+            history = "USA_history_entry"
+            focus = USA_secure_democracy
+        }
+        GER = {
+            history = "GER_history_entry"
+            focus = GER_power_armor_legacy
+        }
+        JAP = {
+            history = "JAP_history_entry"
+            focus = JAP_nuclear_ruins
+        }
+    }
     }
 }
