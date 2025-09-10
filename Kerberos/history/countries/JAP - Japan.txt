@@ -1,0 +1,12 @@
+capital = 5361   # Tokyo (vanilla state ID)
+
+set_national_focus = japan_focus
+
+add_ideas = {
+    JAP_nuclear_ruins
+}
+
+set_politics = {
+    ruling_party = neutrality
+    elections_allowed = no
+}

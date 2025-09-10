@@ -1,0 +1,12 @@
+capital = 75   # Berlin (vanilla state ID)
+
+set_national_focus = german_focus
+
+add_ideas = {
+    GER_power_armor_legacy
+}
+
+set_politics = {
+    ruling_party = fascism
+    elections_allowed = no
+}

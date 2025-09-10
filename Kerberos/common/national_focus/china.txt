@@ -13,7 +13,6 @@ focus_tree = {
 			original_tag = CHI
 		}
 	}
-    default = yes
 
     focus = {
         id = CHI_resist_german_influence

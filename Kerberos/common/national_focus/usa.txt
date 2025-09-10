@@ -13,7 +13,6 @@ focus_tree = {
 			original_tag = USA
 		}
 	}
-    default = yes
 
     focus = {
         id = USA_secure_democracy
