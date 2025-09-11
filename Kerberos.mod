@@ -10,4 +10,4 @@ tags={
 }
 name="Hearts of Iron: The Return of Wolves"
 supported_version="1.16.9"
-path="C:/Users/zombi/OneDrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/Kerberos"
+path="C:\Users\zombi\OneDrive\Documents\Paradox Interactive\Hearts of Iron IV\mod\Kerberos"
