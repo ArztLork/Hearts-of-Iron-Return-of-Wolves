@@ -1,0 +1,13 @@
+focus_tree = {
+    id = italy_focus
+    country = { tag = ITA }
+
+    focus = {
+        id = ITA_dummy_focus
+        icon = GFX_goal_generic_political_reform
+        x = 0
+        y = 0
+        cost = 5
+        completion_reward = { add_stability = 0.05 }
+    }
+}

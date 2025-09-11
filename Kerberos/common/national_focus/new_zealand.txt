@@ -1,0 +1,13 @@
+focus_tree = {
+    id = nzl_focus
+    country = { tag = NZL }
+
+    focus = {
+        id = NZL_dummy_focus
+        icon = GFX_goal_generic_political_reform
+        x = 0
+        y = 0
+        cost = 5
+        completion_reward = { add_political_power = 25 }
+    }
+}

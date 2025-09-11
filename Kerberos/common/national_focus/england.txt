@@ -1,0 +1,13 @@
+focus_tree = {
+    id = england_focus
+    country = { tag = ENG }
+
+    focus = {
+        id = ENG_dummy_focus
+        icon = GFX_goal_generic_political_reform
+        x = 0
+        y = 0
+        cost = 5
+        completion_reward = { add_political_power = 25 }
+    }
+}
