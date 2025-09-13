@@ -1,4 +1,4 @@
-﻿capital = 613  # Nanjing
+﻿capital = 608  # Nanjing
 
 add_ideas = {
     CHI_struggling_unity

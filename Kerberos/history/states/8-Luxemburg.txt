@@ -1,5 +1,4 @@
-state=
-{
+state= {
 	id=8
 	name="STATE_8"
 	
@@ -10,9 +9,10 @@ state=
 		steel=14 # was: 5
 	}
 
-	history=
-	{
- 
+	history = {
+		owner = GER
+		add_core_of = GER
+	
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
