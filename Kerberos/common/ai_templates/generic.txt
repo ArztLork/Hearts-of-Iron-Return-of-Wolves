@@ -8,6 +8,7 @@ armor_generic = {
 		ITA
 		SOV
 		HUN
+		CHI
 	}
 
 	role = armor

@@ -10,7 +10,7 @@ state = {
 	}
 
 	history={
- 
+		
 		buildings = {
 			infrastructure = 2
 		}
