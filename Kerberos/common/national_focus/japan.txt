@@ -1,5 +1,5 @@
 focus_tree = {
-    id = japan_focus
+    id = japan_wtt_focus
     country = {
 		base = 0
 		

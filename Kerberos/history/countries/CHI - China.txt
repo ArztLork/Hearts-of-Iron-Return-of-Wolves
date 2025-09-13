@@ -17,6 +17,6 @@ set_popularities = {
     fascism = 5
     communism = 30
 }
-
+save_global_event_target_as = WTT_current_china_leader
 set_stability = 0.3
 set_war_support = 0.2

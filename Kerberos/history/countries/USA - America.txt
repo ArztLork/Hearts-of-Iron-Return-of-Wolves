@@ -1,0 +1,16 @@
+capital = 361   # Washington DC (vanilla state ID)
+
+add_ideas = {
+    USA_democratic_bastion
+    USA_war_bond_overhang   # your lowest debt level
+}
+
+set_politics = {
+    ruling_party = democratic
+    last_election = "1944.11.5"
+    election_frequency = 48
+    elections_allowed = yes
+}
+set_party_name = { 
+    democratic = "Democratic Party" 
+}

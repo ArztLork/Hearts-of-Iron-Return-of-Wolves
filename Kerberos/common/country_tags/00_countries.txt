@@ -1,0 +1,4 @@
+USA = "countries/USA - America.txt"
+GER = "countries/GER - Germany.txt"
+JAP = "countries/JAP - Japan.txt"
+CHI = "countries/CHI - China.txt"
