@@ -1,4 +1,21 @@
-USA = { color = { 67  123  237 } }
-GER = { color = { 106  119  89 } }
-JAP = {color = { 255 191 191 } }
-CHI = { color = { 255  244  190 } }
+USA = { 
+	color = rgb { 67  123  237 } 
+}
+GER = {
+	 color = rgb { 106  119  89 } 
+}
+JAP = {
+	color = rgb { 255 191 191 } 
+}
+CHI = {
+	color = hsv { 0.18 0.6 0.9 } #255 244 190
+	color_ui = hsv { 0.18 0.3 0.9 }
+}
+ITA = {
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 87 165 82 }
+}
+FRA = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}

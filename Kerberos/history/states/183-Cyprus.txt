@@ -8,8 +8,8 @@ state= {
 		chromium=3 # was: 4
 	}
 
-	history=
-	{
+	history={
+		owner = ITA
  
 		add_core_of = CYP
 		victory_points = {

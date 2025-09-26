@@ -5,6 +5,7 @@ state = {
 	state_category = rural
 
 	history = {
+		owner = ITA
  
 		add_core_of = SUD
 		victory_points = {
