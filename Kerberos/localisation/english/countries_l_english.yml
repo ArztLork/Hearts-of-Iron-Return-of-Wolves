@@ -5,6 +5,8 @@
  CHI:0 "China"
  FRA:0 "French State"
  ITA:0 "Italy"
+ ALB:0 "Kingdom of Albania"
+ GRE:0 "Kingdom of Greece"
 
  USA_DEF:0 "the United States"
  GER_DEF:0 "Germany"
@@ -12,6 +14,9 @@
  CHI_DEF:0 "China"
  Fra_DEF:0 "France"
  ITA_DEF:0 "Italy"
+ ALB_DEF:0 "Albania"
+ GRE_DEF:0 "Greece"
+
 
  USA_ADJ:0 "American"
  GER_ADJ:0 "German"
@@ -19,3 +24,6 @@
  CHI_ADJ:0 "Chinese"
  FRA_ADJ:0 "French"
  ITA_ADJ:0 "Italian"
+ ALB_ADJ:0 "Albanian"
+ GRE_ADJ:0 "Greek"
+ 
