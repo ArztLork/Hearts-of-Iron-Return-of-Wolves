@@ -10,7 +10,7 @@ state = {
 	state_category = metropolis
 
 	history = {
-		owner = BEL
+		owner = RKB
 		add_core_of = BEL
 
 		victory_points = { 

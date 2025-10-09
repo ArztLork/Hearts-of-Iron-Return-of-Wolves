@@ -10,8 +10,6 @@ state={
 	}
 
 	history={
-	
-	    owner = UKR
  
 		victory_points = {
 			6380 50 
