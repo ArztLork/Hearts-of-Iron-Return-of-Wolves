@@ -23,10 +23,10 @@ set_politics = {
 }
 
 set_popularities = {
-    neutrality = 10
+    neutrality = 5
     democratic = 70
     fascism = 5
-    communism = 15
+    communism = 20
 }
 
 # Basic techs (can expand later)

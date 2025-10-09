@@ -8,7 +8,7 @@ state = {
 	state_category = pastoral
 
 	history = {
-		
+    owner = ITA		
 		
 		victory_points = { 
 			2009 2 
