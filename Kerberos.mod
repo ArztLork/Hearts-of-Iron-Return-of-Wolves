@@ -9,5 +9,5 @@ tags={
 	"Ideologies"
 }
 name="Hearts of Iron: The Return of Wolves"
-supported_version="1.16.9"
+supported_version="1.16.10"
 path="C:\Users\zombi\OneDrive\Documents\Paradox Interactive\Hearts of Iron IV\mod\Kerberos"

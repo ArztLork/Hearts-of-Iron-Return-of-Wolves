@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
- 
+ 		owner = RKG
+		add_core_of = RKG
 		add_core_of = NOR
 		add_core_of = SMI
 		

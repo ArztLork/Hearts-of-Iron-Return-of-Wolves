@@ -5,6 +5,8 @@ puppet = MNT
 
 set_research_slots = 3
 
+OOB = "ITA_1936"
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1

@@ -15,7 +15,7 @@ state = {
 	history = {
 
  
-		
+		owner = SLO		
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 3

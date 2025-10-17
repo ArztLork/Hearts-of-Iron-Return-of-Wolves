@@ -1,5 +1,7 @@
 capital = 361   # Washington DC (vanilla state ID)
 
+OOB = "USA_1936"
+
 add_ideas = {
     USA_democratic_bastion
     USA_war_bond_overhang   # your lowest debt level

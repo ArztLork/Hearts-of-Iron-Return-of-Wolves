@@ -7,6 +7,7 @@ state=
 	state_category = town
 	
 	history= {
+		owner = ROM
 		add_core_of = MOL
  
 		victory_points = {

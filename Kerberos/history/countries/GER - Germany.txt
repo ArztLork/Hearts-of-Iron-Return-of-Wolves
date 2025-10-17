@@ -1,4 +1,15 @@
 capital = 75   # Berlin (vanilla state ID)
+puppet = RKB
+puppet = RKG
+puppet = RKN
+puppet = DEN
+puppet = POL
+puppet = RKH
+
+create_faction = Axis
+add_to_faction = GER
+
+OOB = "GER_1936"
 
 add_ideas = {
     GER_power_armor_legacy
@@ -7,4 +18,10 @@ add_ideas = {
 set_politics = {
     ruling_party = democratic
     elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 50
+	fascism = 15
+	neutrality = 35
 }
