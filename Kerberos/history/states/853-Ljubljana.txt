@@ -8,7 +8,6 @@ state=
 	
 	history ={
 		owner = ITA
-		add_core_of = CRO
  
 		buildings = {
 			infrastructure = 3
@@ -20,7 +19,7 @@ state=
 		add_core_of = SLV
 	}
 	provinces={
-		6650 9627 13252
+		6650 9627
 	}
 	
 	local_supplies=5.0 
