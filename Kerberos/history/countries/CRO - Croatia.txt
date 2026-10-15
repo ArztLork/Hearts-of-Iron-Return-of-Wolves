@@ -93,8 +93,8 @@ set_politics = {
 	elections_allowed = yes # none after offset 1
 }
 set_popularities = {
-	democratic = 60
-	fascism = 30
+	democratic = 50
+	fascism = 40
 	communism = 10
 }
 

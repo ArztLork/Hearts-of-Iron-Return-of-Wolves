@@ -5,7 +5,7 @@ state={
 	state_category = pastoral
 
 	history={
-     owner = ITA
+     owner = KEN
 		buildings = {
 			infrastructure = 1
 

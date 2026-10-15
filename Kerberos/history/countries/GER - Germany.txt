@@ -1,16 +1,19 @@
 capital = 75   # Berlin (vanilla state ID)
 puppet = RKB
-puppet = RKG
 puppet = RKN
 puppet = DEN
 puppet = POL
 puppet = RKH
-puppet = BEL
 puppet = LAT
 puppet = LIT
 puppet = EST
+puppet = BLR
+puppet = RKM
+puppet = JAP
+puppet = KOR
+give_guarantee = UKR
 
-create_faction = Axis
+create_faction = European-Union
 add_to_faction = GER
 
 OOB = "GER_1936"
@@ -29,3 +32,55 @@ set_popularities = {
 	fascism = 15
 	neutrality = 35
 }
+
+set_autonomy = {
+		target = RKB
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = RKN
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = DEN
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = POL
+		autonomous_state = autonomy_colony
+		freedom_level = 0.35
+	}
+	set_autonomy = {
+		target = RKH
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = LAT
+		autonomous_state = autonomy_colony
+		freedom_level = 0.35
+	}
+	set_autonomy = {
+		target = LIT
+		autonomous_state = autonomy_colony
+		freedom_level = 0.35
+	}
+	set_autonomy = {
+		target = EST
+		autonomous_state = autonomy_colony
+		freedom_level = 0.35
+	}
+	set_autonomy = {
+		target = BLR
+		autonomous_state = autonomy_colony
+		freedom_level = 0.35
+	}
+	set_autonomy = {
+		target = JAP
+		autonomous_state = autonomy_colony
+		freedom_level = 0.35
+	}
+	set_autonomy = {
+		target = KOR
+		autonomous_state = autonomy_colony
+		freedom_level = 0.35
+	}

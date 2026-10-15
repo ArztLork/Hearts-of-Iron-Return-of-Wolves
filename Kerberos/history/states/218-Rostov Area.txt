@@ -7,7 +7,8 @@ state={
 	state_category = city
 
 	history={
- 
+		owner = RKM
+		add_core_of = RKM
 		victory_points = {
 			9417 15 
 		}

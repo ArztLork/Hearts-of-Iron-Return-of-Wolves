@@ -11,7 +11,7 @@ state = {
 
 	history = {
 
- 
+		owner = RCG
 		add_core_of = RCG
 
 		victory_points = {
@@ -24,6 +24,7 @@ state = {
 
 		buildings = {
 			infrastructure = 2
+			industrial_complex = 1
 			12975 = {
 				naval_base = 1
 			}

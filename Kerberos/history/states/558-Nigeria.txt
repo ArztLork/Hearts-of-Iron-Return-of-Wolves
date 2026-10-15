@@ -9,7 +9,7 @@ state = {
 	}
 
 	history = {
-
+		owner = NGA
  
 		add_core_of = NGA
 
