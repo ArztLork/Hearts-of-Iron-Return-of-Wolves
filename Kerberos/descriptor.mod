@@ -9,7 +9,7 @@ tags={
 	"Ideologies"
 }
 name="Hearts of Iron: The Return of Wolves"
-supported_version="1.16.9"
+supported_version="1.19.3"
 
 replace_path="common/raids"
 replace_path="common/abilities"
